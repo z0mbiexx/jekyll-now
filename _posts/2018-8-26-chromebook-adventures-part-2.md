@@ -6,7 +6,7 @@ title: Adventures of the Chromebook Part 2
 So for anyone who actually read the first email i sent out they'd remember
 i removed the write protection screw from the Asus C200 that Rex gave me..
 and then i proceeded to unlock the developer edition of the chromeOS and
-then i used https://mrchromebox.tech/#fwscript ;(Firmware Utility Script) to
+then i used https://mrchromebox.tech/#fwscript (Firmware Utility Script) to
 overwrite the default BIOS of the chromebook with a custom EFI bios and
 then i attempted to install Antergos and had it fail to a EFI issue so i
 went with the Default Linux Distro for Chromebooks GalliumOS 2.1 for a
@@ -49,11 +49,10 @@ hours...
 
 ```
 git clone --depth 1 https://github.com/plbossart/UCM.git
-<https://github.com/plbossart/UCM.git>*
-*cd UCM*
-*sudo cp -r chtmax98090/ /usr/share/alsa/ucm/*
-*alsaucm -c chtmax98090 set _verb HiFi set _enadev Speakers*
-*sudo alsactl store*
+cd UCM
+sudo cp -r chtmax98090/ /usr/share/alsa/ucm/
+alsaucm -c chtmax98090 set _verb HiFi set _enadev Speakers
+sudo alsactl store
 ```
 
 
