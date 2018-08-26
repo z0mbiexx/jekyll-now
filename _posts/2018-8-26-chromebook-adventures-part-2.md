@@ -1,6 +1,6 @@
 ---
 layout: post
-title: test entry
+title: Adventures of the Chromebook Part 2 
 ---
 
 So for anyone who actually read the first email i sent out they'd remember
@@ -23,11 +23,11 @@ time.. so here comes the fix for the first issue with using an distro that
 does not place the EFI in the right place when using a EFI based BIOS on a
 chromebook
 
-
-*sudo su*
-*mkdir -p /boot/efi/EFI/BOOT**cp /boot/efi/EFI/antergos_grub/grubx64.efi
-/boot/efi/EFI/BOOT/BOOTX64.efi*
-
+'''
+sudo su
+mkdir -p /boot/efi/EFI/BOOT cp /boot/efi/EFI/antergos_grub/grubx64.efi
+/boot/efi/EFI/BOOT/BOOTX64.efi
+'''
 
 this fixed my issue with the distro not loading correctly on boot. so i now
 had a working laptop without any "major" issues.. another issue with
@@ -44,18 +44,14 @@ audio on these chromebooks.. and someone had a fix for it that worked for
 them..  i tried it.. and i got it to work finally after many tries and
 hours...
 
-
-*git clone --depth 1 https://github.com/plbossart/UCM.git
+'''
+git clone --depth 1 https://github.com/plbossart/UCM.git
 <https://github.com/plbossart/UCM.git>*
-
 *cd UCM*
-
 *sudo cp -r chtmax98090/ /usr/share/alsa/ucm/*
-
 *alsaucm -c chtmax98090 set _verb HiFi set _enadev Speakers*
-
 *sudo alsactl store*
-
+'''
 
 running this initially would do nothing but throw up some errors about
 parsing a certain file/folder and would never completely work so i gave up
@@ -67,13 +63,13 @@ finally found my solution to get working audio on my chromebook with kernel
 4.18.4 and finally having it show the actual sound card rather then dummy
 output..
 
-
-*i made the folder*
-*/usr/share/alsa/ucm/GOOGLE-Quawks-1.0-Quawks/*
-*and then i copied the files from*
-*/usr/share/alsa/ucm/chtmax98090 to the newly created folder and then
-renamed chtmax98090.conf to **GOOGLE-Quawks-1.0-Quawks.conf*
-
+'''
+i made the folder
+/usr/share/alsa/ucm/GOOGLE-Quawks-1.0-Quawks/
+and then i copied the files from
+/usr/share/alsa/ucm/chtmax98090 to the newly created folder and then
+renamed chtmax98090.conf to GOOGLE-Quawks-1.0-Quawks.conf
+'''
 
 and reran the last two lines of the last commands i did before.. and rather
 than having it spit errors out at me this time.. it worked and after a
