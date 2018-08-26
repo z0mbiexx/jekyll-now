@@ -2,19 +2,19 @@
 layout: default
 ---
 
-##Community
+## Community
 
 Also currently do random activities and projects with Cochise Linux User Group and AZ Local Ubuntu Group.
 
-##Websites
+## Websites
 
-Owned/Sold:
+Owned/Sold:  
 MyCribSupport (Dead)
 Noizefukt.Com (Dead)
 
-Help Code/Design:
+Help Code/Design:  
 ZombinaCorpse.Net (Dead)
 http://cochiselinuxusergroup.org
 
-Sold:
+Sold:  
 MySpaceObsessed (Dead)
