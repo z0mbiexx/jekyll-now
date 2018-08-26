@@ -1,3 +1,3 @@
 Personal Website of Devi Garcia.
 
-deoxizn.github.io
+https://deoxizn.com
