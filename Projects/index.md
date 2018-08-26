@@ -9,12 +9,12 @@ Also currently do random activities and projects with Cochise Linux User Group a
 ## Websites
 
 Owned/Sold:  
-MyCribSupport (Dead)
-Noizefukt.Com (Dead)
+MyCribSupport (Dead)  
+Noizefukt.Com (Dead)  
 
 Help Code/Design:  
-ZombinaCorpse.Net (Dead)
-http://cochiselinuxusergroup.org
+ZombinaCorpse.Net (Dead)  
+http://cochiselinuxusergroup.org  
 
 Sold:  
-MySpaceObsessed (Dead)
+MySpaceObsessed (Dead)  
