@@ -14,7 +14,7 @@ Noizefukt.Com (Dead)
 
 **Help Code/Design/Maintain**:  
 ZombinaCorpse.Net (Dead)  
-http://cochiselinuxusergroup.org  
+[Cochise Linux User Group](http://cochiselinuxusergroup.org)  
 
 **Sold**:  
 MySpaceObsessed (Dead)  
