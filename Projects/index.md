@@ -4,7 +4,7 @@ layout: default
 
 ## Community
 
-Also currently do random activities and projects with Cochise Linux User Group and AZ Local Ubuntu Group.
+Currently do activities and projects with Cochise Linux User Group and AZ Local Ubuntu Group.
 
 ## Websites
 
