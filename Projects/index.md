@@ -6,6 +6,9 @@ layout: default
 
 Currently do activities and projects with Cochise Linux User Group and AZ Local Ubuntu Group.
 
+
+
+
 ## Websites
 
 **Owned/Sold**:  
