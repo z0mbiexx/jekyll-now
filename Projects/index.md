@@ -13,7 +13,8 @@ MyCribSupport (Dead)
 Noizefukt.Com (Dead)  
 
 **Help Code/Design/Maintain**:  
-ZombinaCorpse.Net (Dead)  
+ZombinaCorpse.Net (Dead)
+Minibobbits.com (Dead)
 [Cochise Linux User Group](http://cochiselinuxusergroup.org){:target="_blank"}  
 
 **Sold**:  
