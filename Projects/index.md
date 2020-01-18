@@ -11,11 +11,12 @@ Currently do activities and projects with Cochise Linux User Group and AZ Local 
 **Owned/Sold**:  
 MyCribSupport (Dead)  
 Noizefukt.Com (Dead)  
+MySpaceObsessed (Dead)  
 
 **Help Code/Design/Maintain**:  
 ZombinaCorpse.Net (Dead)  
 Minibobbits.com (Dead)  
 [Cochise Linux User Group](http://cochiselinuxusergroup.org){:target="_blank"}  
 
-**Sold**:  
-MySpaceObsessed (Dead)  
+
+
