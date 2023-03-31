@@ -1,3 +1,3 @@
 Personal Website of Devi Garcia.
 
-https://z0mbiexx.github.io
+https://deoxizn.github.io
